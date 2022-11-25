@@ -1,4 +1,4 @@
-const nameGirl = 'Bạn Quý cuti';
+const nameGirl = 'Bạn Linh cuti';
 const giftUrl = 'https://trickerlo07.github.io/tym/';
 const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = 'Happy Birthday 25-11';
