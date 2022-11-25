@@ -1,8 +1,8 @@
 const nameGirl = 'Bạn Quý cuti';
 const giftUrl = 'https://trickerlo07.github.io/tym/';
 const eventName = 'Chúc Mừng Sinh Nhật';
-const titleCard = 'Happy Birthday 22-11';
-const contentCard = 'Hôm nay 22-11 cũng là sinh nhật bà á. Tui cũng muốn đến trực tiếp tặng quà lắm nhưng mà chắc điều kiện không cho phép. Tui xin code bức thư này như một món quà, mong cậu nhận. Chúc cậu có một cái sinh nhật thiệc đặc biệt, một ngày luôn hạnh phúc và vui vẻ bên gia đình và người thân. A1 cơ mà với thủ khoa nữa chắc là học nhiều lém, nhớ giữ gìn sức khỏe nhó.';
+const titleCard = 'Happy Birthday 25-11';
+const contentCard = 'Hôm nay 25-11 cũng là sinh nhật bạn á. Thì tui cũng muốn đến tặng quà trực tiếp lắm nhưng mà hoàn cảnh không cho phép òi. Chúc hơi muộn xí nhưng mà  chúc bạn luôn zui dẻ, một ngày thiệt may mắn với hạnh phú bên gia đình và bạn bè ha. Monsieur Tuna ra nhiều lắm òi nhưng mà hơi tiếc là bạn không bết thui.';
 
 //Phiên bản Của LTC xin ghi nguồn
 const giftImage = '112.jpg';
